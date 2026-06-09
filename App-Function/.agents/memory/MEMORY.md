@@ -1,0 +1,1 @@
+- [GlobalMarket stack](globalmarket-stack.md) — pnpm monorepo, React+Vite marketplace at `/`, Express API at `/api`, PostgreSQL+Drizzle, Replit Auth OIDC/PKCE, wouter, TanStack Query, Orval codegen.

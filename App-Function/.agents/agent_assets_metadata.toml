@@ -1,0 +1,32 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "lvaN_kaNV0wO5lsHfIxvq"
+uri = "file://artifacts/marketplace/public/hero.png"
+type = "image"
+title = "Hero market bazaar"
+
+[[generated]]
+id = "QmI4spyPOOxE_3wI8kAgR"
+uri = "file://artifacts/marketplace/public/product-watch.png"
+type = "image"
+title = "Smartwatch product shot"
+
+[[generated]]
+id = "yYidnvJAeTEAuJOG_jNZU"
+uri = "file://artifacts/marketplace/public/product-cosmetics.png"
+type = "image"
+title = "Cosmetics product shot"
+
+[[generated]]
+id = "qHs9DX1eq3UhTa9Hv56Xd"
+uri = "file://artifacts/marketplace/public/product-computer.png"
+type = "image"
+title = "Computer product shot"
+
+[[generated]]
+id = "KJ3HBRDKU4iHVHEDuzjTE"
+uri = "file://artifacts/marketplace/public/product-gold.png"
+type = "image"
+title = "Gold necklace product shot"
